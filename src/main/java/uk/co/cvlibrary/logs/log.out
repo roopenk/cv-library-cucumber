@@ -1,0 +1,71 @@
+2023-05-19 00:05:790 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:879 INFO  HomePage :52 - Enter Location : Harrow
+2023-05-19 00:05:963 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (4e78d84f160df717103da35255cbfbe9)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:368 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:466 INFO  HomePage :52 - Enter Location : Harrow
+2023-05-19 00:05:546 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (17eff70c7bd742d5b21f3d39e1e44e6e)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:254 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:364 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:493 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (428f4643b8c5f1c40c7f17fc65c3a3ac)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:676 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:789 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:924 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (817b8226158e98b877a4c830227e1174)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:652 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:779 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:898 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (f110a6f80f4d2b6ba9c9fe7d532e240d)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:341 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:439 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:556 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (69a26fea6f04f38370c31b850aace017)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:451 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:565 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:690 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (823e9f36d731db2721873233f4140ae1)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:528 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:623 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:740 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (766b20dee31f94ef88aee3b6bceae9a3)] -> xpath: //select[@id='distance']]
+2023-05-19 00:05:166 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 00:05:272 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 00:05:396 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (92e68094463811f4048551d98bf80219)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:274 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:401 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:525 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (9c504cbd5e7f72f510fca5b8c0fff66a)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:41 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:141 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:260 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (68d22c3c0f29088d7327fc95ee8ada1a)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:314 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:427 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:552 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (014c1c6acac915dc6a19148ef8e744ab)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:933 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:35 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:139 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (830d8ceba5c497fa31c94c683dbf4eed)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:347 INFO  HomePage :63 - Click on More Search Options : [[ChromeDriver: chrome on WINDOWS (830d8ceba5c497fa31c94c683dbf4eed)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 21:05:434 INFO  HomePage :68 - Enter Minimum Salary: [[ChromeDriver: chrome on WINDOWS (830d8ceba5c497fa31c94c683dbf4eed)] -> xpath: //input[@id='salarymin']]
+2023-05-19 21:05:529 INFO  HomePage :73 - Enter Maximum Salary: [[ChromeDriver: chrome on WINDOWS (830d8ceba5c497fa31c94c683dbf4eed)] -> xpath: //input[@id='salarymax']]
+2023-05-19 21:05:608 INFO  HomePage :78 - Select Salary Type: [[ChromeDriver: chrome on WINDOWS (830d8ceba5c497fa31c94c683dbf4eed)] -> xpath: //select[@id='salarytype']]
+2023-05-19 21:05:67 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:166 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:277 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (cc040742ee0d41265b6864d700a29062)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:486 INFO  HomePage :63 - Click on More Search Options : [[ChromeDriver: chrome on WINDOWS (cc040742ee0d41265b6864d700a29062)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 21:05:615 INFO  HomePage :68 - Enter Minimum Salary: [[ChromeDriver: chrome on WINDOWS (cc040742ee0d41265b6864d700a29062)] -> xpath: //input[@id='salarymin']]
+2023-05-19 21:05:714 INFO  HomePage :73 - Enter Maximum Salary: [[ChromeDriver: chrome on WINDOWS (cc040742ee0d41265b6864d700a29062)] -> xpath: //input[@id='salarymax']]
+2023-05-19 21:05:818 INFO  HomePage :78 - Select Salary Type: [[ChromeDriver: chrome on WINDOWS (cc040742ee0d41265b6864d700a29062)] -> xpath: //select[@id='salarytype']]
+2023-05-19 21:05:929 INFO  HomePage :83 - Select Job Type: Permanent
+2023-05-19 21:05:458 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:564 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:681 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:922 INFO  HomePage :63 - Click on More Search Options : [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 21:05:21 INFO  HomePage :68 - Enter Minimum Salary: [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //input[@id='salarymin']]
+2023-05-19 21:05:108 INFO  HomePage :73 - Enter Maximum Salary: [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //input[@id='salarymax']]
+2023-05-19 21:05:220 INFO  HomePage :78 - Select Salary Type: [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //select[@id='salarytype']]
+2023-05-19 21:05:332 INFO  HomePage :83 - Select Job Type: Permanent
+2023-05-19 21:05:453 INFO  HomePage :88 - Click Find Jobs Button: [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 21:05:919 INFO  ResultPage :23 - Verifying Results Displayed: [[ChromeDriver: chrome on WINDOWS (f4db3e59935e0b9ac2ef8a4d8a628bc7)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 21:05:107 INFO  HomePage :47 - Entering Job Title : Tester
+2023-05-19 21:05:211 INFO  HomePage :52 - Enter Location : Harrow, Greater London
+2023-05-19 21:05:313 INFO  HomePage :57 - Select Distance: [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //select[@id='distance']]
+2023-05-19 21:05:544 INFO  HomePage :63 - Click on More Search Options : [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 21:05:639 INFO  HomePage :68 - Enter Minimum Salary: [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //input[@id='salarymin']]
+2023-05-19 21:05:735 INFO  HomePage :73 - Enter Maximum Salary: [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //input[@id='salarymax']]
+2023-05-19 21:05:841 INFO  HomePage :78 - Select Salary Type: [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //select[@id='salarytype']]
+2023-05-19 21:05:947 INFO  HomePage :83 - Select Job Type: Permanent
+2023-05-19 21:05:72 INFO  HomePage :88 - Click Find Jobs Button: [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 21:05:464 INFO  ResultPage :22 - Verifying Results Displayed: [[ChromeDriver: chrome on WINDOWS (4b894e565b13256a0c206781eaa615b1)] -> xpath: //h1[@class='search-header__title']]
